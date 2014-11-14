@@ -305,12 +305,12 @@ footer p + p {
 	font-family: monospace;
 	color: black;
 	font-size: 14px;
-	width: 555px;
+	width: 100%;
 }
 
 #encryptedTest {
 	margin: 0 auto;
-	width: 525px;
+	width: 100%;
 	padding: 15px;
 }
 
