@@ -309,23 +309,16 @@ footer p + p {
 }
 
 #encryptedTest {
-	margin: 0 auto;
-	width: 100%;
-	padding: 15px;
+    margin: 0 auto;
+    padding: 15px 0;
+    text-align: center;
+    width: 100%;
 }
-
-/*
-textarea.plain, textarea.cipher {
-	height: 180px;
-}
-*/
-
 #passwordText {
 	background-color: #ffffe1;
 	margin-bottom: 0.5em;
 	padding: 3px;
 }
-
 #plainText {
 	background-color: #e1ffe1;
 }
